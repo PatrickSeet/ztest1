@@ -57,13 +57,11 @@ docs/_build/
 
 # PyBuilder
 target/
-
-#Ipython Notebook
-.ipynb_checkpoints
-
-target/
 .idea/
 local_settings.py
 staticfiles
 *.pyc
 env_vars/
+
+#Ipython Notebook
+.ipynb_checkpoints
